@@ -26,15 +26,15 @@ React.js
 
 JavaScript (ES6+)
 
-CSS / Tailwind / Styled Components (choose your stack)
+CSS 
 
 React Router for navigation
 
-Vite / Create React App for bundling (choose one)
+Vite 
 
 📦 Installation & Setup
 # Clone the repository
-git clone 
+git clone https://github.com/Aryansharmagit-glitch/my-portfolio.git
 
 # Navigate to project folder
 cd your-portfolio
