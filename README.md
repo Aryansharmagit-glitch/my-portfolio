@@ -1,3 +1,52 @@
+
+
+A modern, responsive, and fast personal portfolio website built using React.js.
+Showcases projects, skills, experience, and contact information with a clean UI and smooth user experience.
+
+
+🚀 Features
+
+⚡ Fast & Responsive design for all devices
+
+🎨 Clean UI/UX built with modern React components
+
+🧩 Reusable Components for easy updates and scalability
+
+🌓 Dark/Light Mode (optional — remove if not added)
+
+📄 Project Showcase with descriptions and links
+
+📬 Contact Form integrated with email service (if used)
+
+🔗 Social media links & resume download section
+
+🛠️ Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+CSS / Tailwind / Styled Components (choose your stack)
+
+React Router for navigation
+
+Vite / Create React App for bundling (choose one)
+
+📦 Installation & Setup
+# Clone the repository
+git clone 
+
+# Navigate to project folder
+cd your-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
